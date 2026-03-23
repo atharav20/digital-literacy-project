@@ -15,5 +15,5 @@ General Safety Tips :-
 7) Do not allow unnecessary permissions (camera, contacts, etc.) to apps  
 
 Reporting Help :-  
-Report cyber fraud at: https://cybercrime.gov.in  
-Call Cyber Crime Helpline: 1930 (24x7)
+Report cyber fraud at :- https://cybercrime.gov.in  
+Call Cyber Crime Helpline :- 1930 (24x7)
