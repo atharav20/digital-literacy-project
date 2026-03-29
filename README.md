@@ -15,11 +15,11 @@ Digital Literacy Awareness Quiz link mentioned in task 3 :- https://forms.gle/sD
 
 ### Repository Structure
 This repository is organized into the following folders as per the project requirements:  
-report/: Contains the final written Project Report (.pdf/.docx).  
-task-1-presentation/: Infographic regarding Digital Literacy awareness.  
-task-2-portfolio/: Screenshots of professional digital profiles (GitHub, LinkedIn, etc.).  
-task-3-platforms/: Proof of coding challenges and cloud collaboration tools.  
-task-4-email-etiquette/: Professional email drafts and social media etiquette checklists.  
-task-5-cybercrime/: Cybercrime case study and prevention guide.  
+report/: Contains the final written Project Report in pdf format.   
+task-1-presentation/: It contains infographic regarding Digital Literacy awareness.  
+task-2-portfolio/: It contains screenshots of professional digital profiles (GitHub, LinkedIn, etc.).  
+task-3-platforms/: It contains proof of coding challenges and cloud collaboration tools.  
+task-4-email-etiquette/: It contains professional email drafts and social media etiquette checklists.  
+task-5-cybercrime/: It containss Cybercrime case study and prevention guide.  
  
 
