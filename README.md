@@ -39,3 +39,8 @@ Task 4: Email & Etiquette
 Formal email drafts for academic and professional requests. Features a "Do’s and Don’ts" checklist for responsible social media use.  
 Task 5: Cybercrime & Prevention   
 A detailed case study on modern online threats like phishing or UPI fraud. Includes a prevention guide with Indian national reporting channels.  
+
+### Links  
+LinkedIn :-  
+Kaggle :-  
+Github :-  
